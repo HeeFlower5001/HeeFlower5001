@@ -12,6 +12,8 @@
 - Kotlin
 - Python
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HeeFlower5001&show_icons=true)
+
 
 <!--
 **Heeflower5001/HeeFlower5001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
