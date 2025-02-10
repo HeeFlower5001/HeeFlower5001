@@ -1,4 +1,17 @@
-## Hi there 👋
+# 환영합니다!
+
+안녕하세요! 한국항공대학교 소프트웨어학과에 재학중인 22학번 김희승입니다.  
+백엔드 개발자가 되기 위해서 노력하고 있습니다.  
+항상 최고가 되기 위해서 노력하겠습니다. 감사합니다.
+
+-----
+### Programming-Language
+- C
+- C++
+- Java
+- Kotlin
+- Python
+
 
 <!--
 **Heeflower5001/HeeFlower5001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
