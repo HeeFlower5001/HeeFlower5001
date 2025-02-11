@@ -26,7 +26,7 @@ Instagram: [HeeFlower5001](https://www.instagram.com/HeeFlower5001/)
 |----------|------------|
 | ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white) | ██████▁▁▁▁ 60% |
 
-### Familiar Languages  
+### Other Languages  
 | Language | Proficiency |
 |----------|------------|
 | ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white) | ██████▁▁▁▁ 60% |
