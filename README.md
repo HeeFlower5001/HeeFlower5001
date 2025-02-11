@@ -32,6 +32,8 @@ Instagram: [HeeFlower5001](https://www.instagram.com/HeeFlower5001/)
 | ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white) | ██████▁▁▁▁ 60% |
 | ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white) | █████▁▁▁▁▁ 50% |
 | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) | ████▁▁▁▁▁▁ 40% |
+| ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) | ██___▁▁▁▁_ 20% |
+| ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white) | ██___▁▁▁▁_ 20% |
 | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ██▁▁▁▁▁▁▁▁ 20% |
 
 ## FrameWork
