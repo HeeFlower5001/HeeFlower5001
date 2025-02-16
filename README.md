@@ -16,10 +16,38 @@ Instagram: [HeeFlower5001](https://www.instagram.com/HeeFlower5001/)
 
 </div>
 
+## 🎓 Education
+- 한국항공대학교 (소프트웨어학과 | 일반편입)    
+- 군산대학교 (컴퓨터정보공학과 | 중퇴)     
+- 인제고등학교  
+- 인천성리중학교  
+- 인천성리초등학교  
+
 -----
 # Stack 
 
 ## Programming Language
+<!-- 
+000 ~ 020% 
+- 기본 문법과 문장을 이해할 수 있음
+- 간단한 스크립트 작성 가능
+
+020 ~ 040%
+- 기본적인 라이브러리와 API 사용 가능
+- 단순한 프로그램 구현 가능
+
+040 ~ 060%
+- 객체지향/함수형 프로그래밍 개념 적용 가능
+- 프로젝트에서 실무적으로 사용 가능
+
+060% ~ 080%
+- 최적화 및 유지보수 고려하여 개발 가능
+- 프레임워크, 라이브러리 활용 능숙
+
+080 ~ 100%
+- 성능 최적화 및 아키텍처 설계 가능
+- 오픈소스 기여 또는 라이브러리 개발 경험
+-->
 
 ### Main Language  
 | Language | Proficiency |
@@ -38,7 +66,11 @@ Instagram: [HeeFlower5001](https://www.instagram.com/HeeFlower5001/)
 
 ## FrameWork
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
-- Ktor
+![Ktor](https://img.shields.io/badge/Ktor-0095D5?style=flat-square&logo=ktor&logoColor=white)  
+
+## 🧩Algorithm
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=heeflower5001)](https://solved.ac/profile/heeflower5001)  
+🔗 [Baekjoon Online Judge Profile](https://www.acmicpc.net/user/heeflower5001)
 
 ## 💻Development Tool
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
