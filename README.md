@@ -19,7 +19,7 @@ Instagram: [HeeFlower5001](https://www.instagram.com/HeeFlower5001/)
 ## 🎓 Education
 - 한국항공대학교 (소프트웨어학과 | 일반편입)    
 - 군산대학교 (컴퓨터정보공학과 | 중퇴)     
-- 인제고등학교  
+- 인제고등학교 (인천)  
 - 인천성리중학교  
 - 인천성리초등학교  
 
