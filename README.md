@@ -8,12 +8,7 @@
 **최고가 되기 위해서 항상 도전을 아끼지 않겠습니다.**  
 감사합니다.
 
-## 📬Contact
-Email: HeeFlower5001@gmail.com  
-KakaoTalk ID: heeflower5001  
-Instagram: [HeeFlower5001](https://www.instagram.com/HeeFlower5001/)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HeeFlower5001&show_icons=true&theme=dark)
+### [LinkTree](https://www.linktr.ee/HeeFlower5001)
 
 </div>
 
