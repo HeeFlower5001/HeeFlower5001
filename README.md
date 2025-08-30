@@ -14,15 +14,12 @@
 - 인천성리초등학교  
 
 -----
-<div align=center>  
 
 # 🪪 Certifications  
 - 정보처리기사 (2025_06)  
 - SQLD (2025_09)  
   
 # Stack 
-
-</div>
 
 ## Programming Language
 <!-- 
