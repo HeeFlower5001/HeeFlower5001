@@ -47,7 +47,9 @@
 ### Main Language  
 | Language | Proficiency |
 |----------|------------|
-| ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white) | ██████▁▁▁▁ (060% \| 100%) |
+| ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white) | ██████▁▁▁▁ (060% \| 100%) |  
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ██▁▁▁▁▁▁▁▁ (020% \| 100%) |  
+
 
 ### Other Languages  
 | Language | Proficiency |
@@ -59,9 +61,11 @@
 | ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white) | ██▁▁▁▁▁▁▁▁ (020% \| 100%) |
 | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ██▁▁▁▁▁▁▁▁ (020% \| 100%) |
 
-## FrameWork
+## FrameWork  
+![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)  
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Ktor](https://img.shields.io/badge/Ktor-0095D5?style=flat-square&logo=ktor&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
-![Ktor](https://img.shields.io/badge/Ktor-0095D5?style=flat-square&logo=ktor&logoColor=white)  
 
 ## 🧩Algorithm
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=heeflower5001)](https://solved.ac/profile/heeflower5001)  
@@ -73,14 +77,16 @@
 - Android Studio
 
 -----
-<div align=center>  
   
-# 🚧Project (공사중🚧)
-
-</div>
-
-- Seed  
-- Checkid  
-- 해드리오  
-
+# 📂 Project  
+  
+**Seed** (2024_10)  
+...  
+  
+**Checkid** (2024_10 ~ 2024_12)  
+...  
+  
+**해드리오**  (2025_06)  
+디지털 취약계층을 위한 정보 제공 애플리케이션   
+  
 -----
