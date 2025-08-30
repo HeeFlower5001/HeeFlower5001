@@ -21,7 +21,6 @@
   
 # Stack 
 
-## Programming Language
 <!-- 
 000% ~ 020% 
 - 기본 문법과 문장을 이해할 수 있음
@@ -61,28 +60,27 @@
 | ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white) | ██▁▁▁▁▁▁▁▁ (020% \| 100%) |
 | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ██▁▁▁▁▁▁▁▁ (020% \| 100%) |
 
-## FrameWork  
+### FrameWork  
 ![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)  
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![Ktor](https://img.shields.io/badge/Ktor-0095D5?style=flat-square&logo=ktor&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)  
-  
-## Infra
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=FF9900)
-  
-  
-## DB    
+
+### DB    
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)  
   
-  
-## 🧩Algorithm
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=heeflower5001)](https://solved.ac/profile/heeflower5001)  
-🔗 [Baekjoon Online Judge Profile](https://www.acmicpc.net/user/heeflower5001)
+### Infra
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=FF9900)  
 
-## 💻Development Tool
+### 💻Development Tool  
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-- Android Studio
+
+  
+# 🧩Algorithm  
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=heeflower5001)](https://solved.ac/profile/heeflower5001)  
+🔗 [Baekjoon Online Judge Profile](https://www.acmicpc.net/user/heeflower5001)
 
 -----
   
