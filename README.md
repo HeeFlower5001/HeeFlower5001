@@ -2,7 +2,7 @@
 - 📘 About me: 
 - 🌳 LinkTree: https://www.linktr.ee/HeeFlower5001  
 
-# Stack 
+# 💻 Stack 
 
 ### Language
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
@@ -21,6 +21,7 @@
 ![Ktor](https://img.shields.io/badge/Ktor-0095D5?style=flat-square&logo=ktor&logoColor=white)  
 
 ### FE  
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 ![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)  
 
 ### DB    
@@ -29,7 +30,7 @@
 ### Infra
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=FF9900)  
 
-### 💻Development Tool  
+### Development Tool  
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -38,14 +39,3 @@
 # 🧩Algorithm  
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=heeflower5001)](https://solved.ac/profile/heeflower5001)  
 🔗 [Baekjoon Online Judge Profile](https://www.acmicpc.net/user/heeflower5001)
-  
-# 📂 Project  
-  
-**Seed** (2024.10)  
-...  
-  
-**Checkid** (2024.10 ~ 2024.12)  
-...  
-  
-**해드리오**  (2025_06)  
-디지털 취약계층을 위한 정보 제공 애플리케이션
