@@ -1,6 +1,5 @@
 # 👋 안녕하세요!  
-- 📘 About me: 
-- 🌳 LinkTree: https://www.linktr.ee/HeeFlower5001  
+https://heeflower5001.vercel.app/
 
 # 💻 Stack 
 
